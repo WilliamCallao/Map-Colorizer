@@ -31,12 +31,12 @@ El objetivo es asignar un color a cada región del mapa de manera que regiones a
 
 1. Clona este repositorio:
     ```
-    git clone https://github.com/tu-usuario/Map-Colorizer.git
+    git clone https://github.com/WilliamCallao/Map-Colorizer.git
     ```
 
 2. Navega al directorio del proyecto:
     ```bash
-    cd map-colorizer
+    cd Map-Colorizer
     ```
 
 3. (Opcional) Crea y activa un entorno virtual:
