@@ -17,8 +17,8 @@ El objetivo es asignar un color a cada región del mapa de manera que regiones a
 ## Capturas de Pantalla
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-  <img src="https://github.com/tu-usuario/map-colorizer/assets/image1.png" alt="Interfaz del Proyecto" width="45%" />
-  <img src="https://github.com/tu-usuario/map-colorizer/assets/image2.png" alt="Grafo Generado" width="45%" />
+  <img src="https://github.com/WilliamCallao/Map-Colorizer/assets/96638909/2896faa7-c02e-4e3e-9959-58aba0255c77" alt="Interfaz del Proyecto" width="45%" />
+  <img src="https://github.com/WilliamCallao/Map-Colorizer/assets/96638909/0c8b21ca-93ca-4224-977e-30e408f4a89c" alt="Grafo Generado" width="45%" />
 </div>
 
 ## Cómo Ejecutar el Proyecto
